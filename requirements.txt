@@ -1,0 +1,15 @@
+Flask==3.0.3
+flask-cors
+openai==0.28.0
+pinecone==5.3.1
+PyPDF2==3.0.1
+python-dotenv==1.0.1
+python_docx==1.1.2
+gunicorn==20.1.0
+protobuf==4.24.0
+google-api-python-client==2.96.0
+grpcio==1.56.2
+grpcio-tools==1.56.2 
+protoc-gen-openapiv2==0.0.1
+numpy==1.24.3
+firebase-admin

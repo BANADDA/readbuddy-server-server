@@ -1,0 +1,14 @@
+Model Parameters
+ -learning rate - cosine scheduler
+ -early stoping threshod - 1e-4
+ -training  -100epochs
+ -patience - 10
+ -adam optimizer
+ -dropout -0.1 0r 0.0
+ -maxtime -0.05
+
+max duration, mean, median, outliers, minimum avareage duration of audio length, charater lenght
+average transcript length
+tokens
+printing rate characters per seconds
+speaking rate  - charaters per second
